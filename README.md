@@ -1,2 +1,2 @@
-github.io
+Hypnosis Education Association Website
 =========
